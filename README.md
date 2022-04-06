@@ -5,5 +5,5 @@ All versions are uploaded and managed here.<br>Furthermore, all support informat
 ## Table of contents
 
 **AgSupportConsole**
--> Portable Install of AGCR
--> Portable Uninstall of AGCR
+- [Portable Install of AGCR](AgSupportConsole/PortableInstall.md)
+- Portable Uninstall of AGCR
