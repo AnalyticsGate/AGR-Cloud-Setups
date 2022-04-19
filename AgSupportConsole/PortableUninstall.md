@@ -7,3 +7,4 @@
 5. Close the Support Console.
 6. Remove the folder "AGCloudReporting" in "C:\Program Files" or "C:\Programme".
 7. Remove your data folder "AGCloudShare" under C:\ with your apps and templates.
+8. Remove the link(shotcut) on the desktop.
