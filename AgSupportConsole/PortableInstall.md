@@ -23,3 +23,7 @@ The .NET Runtime and the ASP.NET Core Runtime in version 6 (.NET6) as 64Bit (x64
 First install the .NET Runtime, then install the ASP.NET Core Runtime.
 
 The default link to open the meagment console is [https://localhost:40267](https://localhost:40267)
+
+Inserting text into an old Windows console
+
+<img align="left" height="280px" src="WindowsCMDPaste.png">
