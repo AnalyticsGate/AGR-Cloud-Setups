@@ -1,6 +1,4 @@
-# AnalayticsGate Support Console
-
-## Manual uninstallation of AnalayticsGate Cloud Reporting
+# Manual uninstallation of AnalayticsGate Cloud Reporting
 
 1. Start the Support Console in Folder "C:\Program Files\AGCloudReporting\SupportConsole\AgSupportConsole.exe".
 2. Select 12 to uninstall the cloud environment.
