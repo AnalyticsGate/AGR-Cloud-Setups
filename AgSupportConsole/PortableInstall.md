@@ -12,7 +12,7 @@
 10. Select 6 to start all services manually. Go through the submenu from 1 to 4.
 11. Select 13 to create the desktop link.
 
-## Important notes
+# Important notes
 
 On Windoes Server 2012 and Windoes Server 2012 R2 the installation of the Microsoft Visual C++ Redistributable package is required.
 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
