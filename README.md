@@ -4,4 +4,4 @@ All versions are uploaded and managed here.<br>Furthermore, all support informat
 
 For general questions or problems please have a look at the ![wiki](https://github.com/AnalyticsGate/AGR-Cloud-Setups/wiki).
 
-![This is an image](https://github.com/AnalyticsGate/AGR-Cloud-Setups/blob/main/images/AnalyticsGateReportingSuite.png)
+<img src="https://github.com/AnalyticsGate/AGR-Cloud-Setups/blob/main/images/AnalyticsGateReportingSuite.png" alt="AnalayticsGate Reporting" height="400px">
