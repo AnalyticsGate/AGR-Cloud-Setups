@@ -1,6 +1,6 @@
 # AnalayticsGate-Reporting-Cloud-Setups
 
-Automated report generation
+**Automated report generation**
 
 AnalyticsGate Cloud Reporting is a complete integrated
 reporting solution for Qlik Sense® cloud systems.
