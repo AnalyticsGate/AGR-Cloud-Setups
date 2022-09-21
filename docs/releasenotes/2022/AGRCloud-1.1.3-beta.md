@@ -1,6 +1,3 @@
-<summary>Release Notes</summary>
-
-
 ### AnalyticsGate Cloud Reporting
 
 *New Features*
