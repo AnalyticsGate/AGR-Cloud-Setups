@@ -1,8 +1,15 @@
 ### AnalyticsGate Cloud Reporting
 
 *New Features*
-- new Endpoint getAppById
-- set more information of distribution to status call
+- New encryption functions for passwords
+- New mail component for more secure mail traffic
+- New report output formats JPG and PNG
+- Updates of the dependent packages
+
+*Fixed Bugs*
+- When pivot tables are recalculated a NULL exception comes up
+- Bug fix when templates are loaded
+- Small optimizations
 
 ### AnalyticsGate Cloud Management
 
