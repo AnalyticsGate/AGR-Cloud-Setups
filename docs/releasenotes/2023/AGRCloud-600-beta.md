@@ -13,19 +13,3 @@
 *Fixed Bugs*
 - General bug fixes to optimize processing
 - Session pool optimization
-
-### AnalyticsGate Cloud Management
-
-*New Features*
-- Implement 
-
-*Fixed Bugs*
-- Fix issue 
-
-### AnalyticsGate Cloud Schedeuler
-
-*New Features*
-- automated
-
-*Fixed Bugs*
-- fix error
