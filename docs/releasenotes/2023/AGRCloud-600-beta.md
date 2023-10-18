@@ -17,3 +17,4 @@
 - Manual call of the installation of certificates in the support console could not be started
 - XLSB files could not be saved without errors because the save type object has changed
 - Sheetloop with a old template failed
+- Template was delete before reporting service starts
