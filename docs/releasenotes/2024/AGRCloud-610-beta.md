@@ -1,7 +1,6 @@
-AnalyticsGate Cloud Reporting
+### AnalyticsGate Cloud Reporting
 
-Fixed Bugs
-
-    General bug fixes to optimize processing
-    Rest service destroys itself
-    Scheduler is not available
+*New Features*
+- General bug fixes to optimize processing
+- Rest service destroys itself
+- Scheduler is not available
