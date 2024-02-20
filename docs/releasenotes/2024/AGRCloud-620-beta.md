@@ -1,7 +1,8 @@
 ### AnalyticsGate Cloud Reporting
 
 *New Features*
-- New Code Signing Certificate 
+- New Code Signing Certificate
+- Dependent packages have been updated
 
 *Fixed Bugs*
 - General bug fixes to optimize processing
