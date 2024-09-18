@@ -1,9 +1,9 @@
 ### AnalyticsGate OnPrem Reporting
 
 *New Features*
-- Update all included Packages
-- Support for setting qlik varibales
+- Updated all included packages
+- Support for setting Qlik variables
 
 *Fixed Bugs*
-- Wrong HTML color value in certain situations
+- Fixed wrong HTML color value in certain situations
 - Small fixes in the calc engine
