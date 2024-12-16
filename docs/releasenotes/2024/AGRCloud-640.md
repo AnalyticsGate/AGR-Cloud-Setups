@@ -1,4 +1,4 @@
-### AnalyticsGate OnPrem Reporting
+### AnalyticsGate Cloud Reporting
 
 *New Features*
 - Updated all included packages
