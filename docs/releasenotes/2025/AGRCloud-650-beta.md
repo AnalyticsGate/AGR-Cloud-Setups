@@ -2,7 +2,7 @@
 
 *New Features*
 - Updated all included packages
-- Support for setting Qlik variables
+- Migration from .NET6 to .NET8
 
 *Fixed Bugs*
 - Fixed wrong HTML color value in certain situations
