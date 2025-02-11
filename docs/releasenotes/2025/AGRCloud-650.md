@@ -3,6 +3,7 @@
 *New Features*
 - Updated all included packages
 - Migration from .NET6 to .NET8
+- Migration from angular version 13 to 18
 - Add New Qlik CSRF-Token functionality (Since Qlik Sense version November 2024)
 
 *Fixed Bugs*
