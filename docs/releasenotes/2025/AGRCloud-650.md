@@ -4,7 +4,7 @@
 - Updated all included packages
 - Migration from .NET6 to .NET8
 - Migration from angular version 13 to 18
-- Add New Qlik CSRF-Token functionality (Since Qlik Sense version November 2024)
+- Added new Qlik CSRF token functionality (since Qlik Sense version "November 2024")
 
 *Fixed Bugs*
 - Fixed wrong HTML color value in certain situations
