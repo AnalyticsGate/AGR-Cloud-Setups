@@ -1,4 +1,4 @@
-# AnalayticsGate-Reporting-Cloud-Setups
+# AnalyticsGate-Reporting-Cloud-Setups
 
 **Automated report generation**
 
@@ -8,7 +8,7 @@ reporting solution for Qlik Sense® cloud systems.
 Create reports automatically and send them across your organization filtered by groups or individuals.
 AnalyticsGate Reporting Suite is incredibly powerful and easy to implement. You don't need any additional hardware, just Qlik Sense® in the background.
 
-<img src="https://github.com/AnalyticsGate/AGR-Cloud-Setups/blob/main/images/AnalyticsGateReportingSuite.png" alt="AnalayticsGate Reporting" height="400px">
+<img src="https://github.com/AnalyticsGate/AGR-Cloud-Setups/blob/main/images/AnalyticsGateReportingSuite.png" alt="AnalyticsGate Reporting" height="400px">
 
 All versions are uploaded and managed here.<br>Furthermore, all support information for the product is located here.
 
