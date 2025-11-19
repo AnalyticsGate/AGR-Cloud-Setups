@@ -4,5 +4,5 @@
 - Updated packages for all modules
 
 *Fixed Bugs*
-- Better exception handling in Tables
-- Fix certificate error in senseimage formula
+- Better exception handling in tables
+- Fixed certificate error in senseimage formula
